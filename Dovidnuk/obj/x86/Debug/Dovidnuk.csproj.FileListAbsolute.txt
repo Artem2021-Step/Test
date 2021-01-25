@@ -1,0 +1,37 @@
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.exe
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.pdb
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.Form1.resources
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.Properties.Resources.resources
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.csproj.GenerateResource.Cache
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.exe
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.pdb
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.FormUser.resources
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.csprojResolveAssemblyReference.cache
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\bin\Debug\baza.mdb
+C:\Users\kims\Desktop\Telefon\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.exe.config
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.exe.config
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.exe
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.pdb
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\bin\Debug\baza.mdb
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.exe
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.pdb
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.Form1.resources
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.FormUser.resources
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.Properties.Resources.resources
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Рабочий стол\Telefon\Dovidnuk\Dovidnuk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.exe.config
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.exe
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.pdb
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\bin\Debug\baza.mdb
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.exe
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.pdb
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.csprojResolveAssemblyReference.cache
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.Form1.resources
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.FormUser.resources
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.Properties.Resources.resources
+C:\Users\kims\Desktop\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.csproj.GenerateResource.Cache
+C:\Users\kims\Desktop\РОЗРОБКИ С#\Telefon1\Dovidnuk\Dovidnuk\bin\Debug\Dovidnuk.exe.config
+C:\Users\kims\Desktop\РОЗРОБКИ С#\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.exe
+C:\Users\kims\Desktop\РОЗРОБКИ С#\Telefon1\Dovidnuk\Dovidnuk\obj\x86\Debug\Dovidnuk.pdb
